@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pavel Khokhlov
 - 👀 I have finished frontend and basic backend course in Yandex.Praktikum
 - 👀 I’m interested in good job as a frontend-developer.
-- 🌱 I have some skills in HTML, CSS, JS, ReactJS, Redux-Toolkit, NodeJS, MongoBD.
+- 🌱 I have some skills in HTML, CSS, SASS, Linaria, JS, ReactJS, React-Native, Redux-Toolkit, Recoil, Fetch, Axios, NodeJS, MongoBD.
 - 💞️ I’m looking to collaborate on Web-development.
 - 📫 How to reach me: gg.pavel.kh@gmail.com
 
